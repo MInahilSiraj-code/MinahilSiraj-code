@@ -23,7 +23,6 @@ Welcome to my GitHub profile! I'm a fresher developer passionate about learning 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-
 ---
 
 ## 📊 GitHub Stats
@@ -45,13 +44,13 @@ Welcome to my GitHub profile! I'm a fresher developer passionate about learning 
 
 ## 📬 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minahil-siraj-225ba03b4/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:minahilsiraj12@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/MInahilSiraj-code)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=minahilsiraj&color=grey&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=MInahilSiraj-code&color=grey&style=flat" alt="Profile views" />
 </p>
 
 <p align="center"><i>"Every expert was once a beginner."</i></p>
