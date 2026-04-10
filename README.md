@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ heyy, i'm minahil siraj 💅
+# ✨ heyy, i'm Minahil Siraj 💅
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=22&pause=1000&color=FF85C1&center=true&vCenter=true&width=500&lines=fresher+dev+%F0%9F%8C%B8;coding+my+era+%E2%9C%A8;learning+every+single+day+%F0%9F%92%96;she%27s+literally+that+girl+%F0%9F%92%85)
 
