@@ -23,15 +23,14 @@ Welcome to my GitHub profile! I'm a fresher developer passionate about learning 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-> *(Feel free to update this list with your actual skills!)*
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=minahilsiraj&show_icons=true&theme=default&hide_border=true" alt="Minahil's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minahilsiraj&layout=compact&theme=default&hide_border=true" alt="Top Languages" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MinahilSiraj-code&show_icons=true&theme=default&hide_border=true" alt="Minahil's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinahilSiraj-codej&layout=compact&theme=default&hide_border=true" alt="Top Languages" width="40%" />
 </p>
 
 ---
