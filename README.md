@@ -29,8 +29,8 @@ Welcome to my GitHub profile! I'm a fresher developer passionate about learning 
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MinahilSiraj-code&show_icons=true&theme=default&hide_border=true" alt="Minahil's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinahilSiraj-codej&layout=compact&theme=default&hide_border=true" alt="Top Languages" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MInahilSiraj-code&show_icons=true&theme=default&hide_border=true" alt="Minahil's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MInahilSiraj-code&layout=compact&theme=default&hide_border=true" alt="Top Languages" width="40%" />
 </p>
 
 ---
