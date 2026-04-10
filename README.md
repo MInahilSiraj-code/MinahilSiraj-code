@@ -1,56 +1,67 @@
-# Hi there, I'm Minahil Siraj 👋
+<div align="center">
 
-Welcome to my GitHub profile! I'm a fresher developer passionate about learning and building things.
+# ✨ heyy, i'm minahil siraj 💅
 
----
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=22&pause=1000&color=FF85C1&center=true&vCenter=true&width=500&lines=fresher+dev+%F0%9F%8C%B8;coding+my+era+%E2%9C%A8;learning+every+single+day+%F0%9F%92%96;she%27s+literally+that+girl+%F0%9F%92%85)
 
-## 🙋‍♀️ About Me
-
-- 🌱 Currently learning and exploring the world of development
-- 💡 Eager to work on real-world projects and grow my skills
-- 🎯 Looking for opportunities to contribute and collaborate
-- 📚 Always curious, always learning
+</div>
 
 ---
 
-## 🛠️ Skills & Tools
+<div align="center">
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+🎀 **she/her** · 🌸 **fresher dev** · 💻 **on her coding era** · ☕ **fueled by chai**
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 🌷 about me
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MInahilSiraj-code&show_icons=true&theme=default&hide_border=true" alt="Minahil's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MInahilSiraj-code&layout=compact&theme=default&hide_border=true" alt="Top Languages" width="40%" />
-</p>
-
----
-
-## 📌 Featured Projects
-
-| Project | Description |
-|--------|-------------|
-| 🔧 *Coming soon* | Currently working on my first projects — stay tuned! |
+```
+✨ name    →  Minahil Siraj
+🌸 status  →  just started my dev journey & absolutely thriving
+💅 vibe    →  turning caffeine into code one day at a time
+🎀 goal    →  building cute & functional things for the internet
+🌙 fun fact →  i googled "how to code" and never looked back
+```
 
 ---
 
-## 📬 Connect With Me
+## 💖 my tech stack (so far & growing!!)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/MInahilSiraj-code)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+![HTML](https://img.shields.io/badge/HTML-%23FF85C1?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%23FFB3D9?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23FFCCE5?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-%23FF85C1?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23FFB3D9?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23FFCCE5?style=for-the-badge&logo=visual-studio-code&logoColor=black)
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MInahilSiraj-code&color=grey&style=flat" alt="Profile views" />
-</p>
+## 🎀 projects
 
-<p align="center"><i>"Every expert was once a beginner."</i></p>
+| 🌸 project | 💬 what's it about |
+|-----------|-------------------|
+| 🔧 *coming soon...* | currently cooking something cute — stay tuned!! |
+
+---
+
+## 💌 let's connect!!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%23FF85C1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/MInahilSiraj-code)
+[![Email](https://img.shields.io/badge/email-%23FFB3D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+🌸 *"she believed she could, so she did"* 🌸
+
+![](https://capsule-render.vercel.app/api?type=waving&color=FFB3D9&height=100&section=footer)
+
+</div>
